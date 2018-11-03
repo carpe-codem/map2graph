@@ -6,3 +6,4 @@ activate
 
 # File patterns
 *.pyc
+*.pem
