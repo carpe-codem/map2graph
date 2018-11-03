@@ -1,0 +1,8 @@
+# Folders
+env
+
+# Scripts
+activate
+
+# File patterns
+*.pyc
